@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gdrop-dev-104636-authRole",
+      "UnauthRoleArn": "arn:aws:iam::475935503129:role/amplify-gdrop-dev-104636-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::475935503129:role/amplify-gdrop-dev-104636-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-gdrop-dev-104636-deployment",
+      "UnauthRoleName": "amplify-gdrop-dev-104636-unauthRole",
+      "StackName": "amplify-gdrop-dev-104636",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:475935503129:stack/amplify-gdrop-dev-104636/d71d0840-0b52-11eb-a1c4-064d890f4576",
+      "AmplifyAppId": "d2cwb7e17x8tf5"
+    }
+  }
+}
