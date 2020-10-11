@@ -10,6 +10,11 @@
       "StackName": "amplify-gdrop-dev-104636",
       "StackId": "arn:aws:cloudformation:ap-southeast-2:475935503129:stack/amplify-gdrop-dev-104636/d71d0840-0b52-11eb-a1c4-064d890f4576",
       "AmplifyAppId": "d2cwb7e17x8tf5"
+    },
+    "categories": {
+      "auth": {
+        "gdropa42337e0": {}
+      }
     }
   }
 }
